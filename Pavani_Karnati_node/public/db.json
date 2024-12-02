@@ -1,0 +1,66 @@
+{"StudentData": [{
+    "studentName":"Pavani Karnati",
+    "studentID": 883001,
+    "class": "Computer Science",
+    "age": 23,
+    "email": "pavanikarnati@newhaven.edu",
+    "contactNumber":883241,
+    "NoofcoursesEnrolled":3,
+    "attendence(%)":90,
+    "gpa": 3.8
+  },
+  {"studentName":"Poojitha Kodali",
+    "studentID": 880423,
+    "class": "Business Analytics",
+    "age": 22,
+    "email": "poojithakodali@newhaven.edu",
+    "contactNumber":886432,
+    "NoofcoursesEnrolled":3,
+    "attendence(%)":92,
+    "gpa": 3.7
+  },
+  {
+    "studentName":"Bhanu Karnati",
+    "studentID": 883241,
+    "class": "Computer Science",
+    "age": 23,
+    "email": "bhanukarnati@newhaven.edu",
+    "contactNumber":883251,
+    "NoofcoursesEnrolled":3,
+    "attendence(%)":90,
+    "gpa": 3.9
+  },
+  {
+    "studentName":"Rajitha Ponduru",
+    "studentID": 883451,
+    "class": "Data Science",
+    "age": 25,
+    "email": "rajithaponduru@newhaven.edu",
+    "contactNumber":884651,
+    "NoofcoursesEnrolled":2,
+    "attendence(%)":95,
+    "gpa": 3.5
+  },
+  {
+    "studentName":"Kousalya Mayaluri",
+    "studentID": 883201,
+    "class": "Chemistry",
+    "age": 27,
+    "email": "kousalyamaya@newhaven.edu",
+    "contactNumber":886651,
+    "NoofcoursesEnrolled":3,
+    "attendence(%)":92,
+    "gpa": 3.6
+  },
+  {
+    "studentName":"Nandini Midde",
+    "studentID": 886003,
+    "class": "Public Health",
+    "age": 23,
+    "email": "nandinimidde@newhaven.edu",
+    "contactNumber":886651,
+    "NoofcoursesEnrolled":3,
+    "attendence(%)":80,
+    "gpa": 3.4
+  }
+  ]}
